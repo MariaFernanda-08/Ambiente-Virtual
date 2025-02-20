@@ -89,4 +89,4 @@ Após comparar as versões do Linux, a que mais seria compatível com nosso proj
   ![pytohn](https://github.com/user-attachments/assets/75c20758-f61b-4d53-b2e3-cb4bdd3ccb7e)
 
 ## Considerações Finais
-Nossa equipe aprendeu como é o processo de instalação de uma *Máquina Virtual*, como utilizá-la, como instalar softwares como *Phython*, aprendemos a fazer levantamento de preços, com um preço limite, analisar componentes entre qual é melhor, o que podemos melhorar, são as peças da máquina para, ainda, um melhor desempenho e mais precisão nos dados.
+Nossa equipe aprendeu como é o processo de instalação de uma *Máquina Virtual*, como utilizá-la, como instalar softwares como *Phython*, aprendemos a fazer levantamento de preços, com um preço limite, analisar componentes entre qual é melhor, o que podemos melhorar, são as peças da máquina para, ainda, um melhor desempenho da máquina.
