@@ -1,6 +1,6 @@
 # Ambiente-Virtual
 ## Introdução
-Este projeto tem como objetivo criar um ambiente virtual para fins educacionais, que possibilite a execução de softwares como MySQL, Node.js e Python. A atividade integra conceitos de sistemas operacionais, redes de computadores, levantamento de requisitos e lógica de programação. Com pesquisas sobre os componentes, com a meta de montar um computador com custo máximo de R$ 5.000,00, configurará uma máquina virtual e instalará uma distribuição Linux gratuita, escolhida com base na compatibilidade e facilidade de uso.
+Este projeto tem como objetivo criar um ambiente virtual para fins educacionais, que possibilite a execução de softwares como *MySQL, Node.js* e *Python*. A atividade integra conceitos de sistemas operacionais, redes de computadores, levantamento de requisitos e lógica de programação. Com pesquisas sobre os componentes, com a meta de montar um computador com custo máximo de R$ 5.000,00, configurará uma máquina virtual e instalará uma distribuição Linux gratuita, escolhida com base na compatibilidade e facilidade de uso.
 
 ## Levantamento de Requisitos
 ### Requisitos para o Computador Físico
@@ -17,7 +17,7 @@ Este projeto tem como objetivo criar um ambiente virtual para fins educacionais,
 - **Rede:** Configuração via NAT para acesso à internet.
 
 ## Pesquisa e Orçamento de Componentes
-Foram esses componentes escolhidos, pois possuem um ótimo custo-benefício e atendem perfeitamente os requisitos para o Computador Físico.
+Foram esses componentes escolhidos, pois possuem um ótimo custo-benefício e são de marcas de qualidade, confiáveis, resultando num total de R$ 
 - **Processador:** [Link do Processador](https://www.terabyteshop.com.br/produto/21317/processador-amd-ryzen-5-4600g-37ghz-42ghz-turbo-6-cores-12-threads-cooler-wraith-stealth-am4-100-100000147box?p=139255&utm_source=craftmybox&utm_medium=afiliados&utm_campaign=craftmybox)
 - **Memória RAM:** [Link da Memória RAM](https://www.kabum.com.br/produto/110769/memoria-ram-corsair-vengeance-lpx-16gb-2x8gb-2400mhz-ddr4-cl16-black-cmk16gx4m2a2400c16?awc=17729_1740052634_1e9162127b65d932f203be25b6a4b316&utm_source=AWIN&utm_medium=AFILIADOS&utm_campaign=fevereiro24&utm_content=2025-02-20&utm_term=691737)
 - **Armazenamento:** [Link do Armazenamento](https://www.amazon.com.br/dp/B0DBR3DZWG?tag=craftmybox-20&linkCode=osi&th=1&psc=1&smid=A38JVMMYJLUN90)
