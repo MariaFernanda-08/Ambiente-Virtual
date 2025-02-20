@@ -79,11 +79,14 @@ Após comparar as versões do Linux, a que mais seria compatível com nosso proj
 - Após a instalação, a máquina virtual reiniciará.
 - Faça login com as credenciais criadas.
 - Abra o terminal e verifique a instalação dos softwares executando os seguintes comandos:
-  - mysql 8.0 version
+  - **Mysql 8.0 version**
   ![mysql](https://github.com/user-attachments/assets/0a49a1d0-92e8-4918-b59b-6ea9a3b2c246)
 
-  - node v18.19.1
+  - **Node v18.19.1**
   ![node](https://github.com/user-attachments/assets/ae6f344c-98e9-4ce8-ab5c-050de410821b)
 
-  - python3 3.12.3 version
+  - **Python3 3.12.3 version**
   ![pytohn](https://github.com/user-attachments/assets/75c20758-f61b-4d53-b2e3-cb4bdd3ccb7e)
+
+## Considerações Finais
+Nossa equipe aprendeu como é o processo de instalação de uma *Máquina Virtual*, como utilizá-la, como instalar softwares como *Phython*, aprendemos a fazer levantamento de preços, com um preço limite, analisar componentes entre qual é melhor, o que podemos melhorar, são as peças da máquina para, ainda, um melhor desempenho e mais precisão nos dados.
