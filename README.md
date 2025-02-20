@@ -5,9 +5,9 @@ Este projeto tem como objetivo criar um ambiente virtual para fins educacionais,
 ## Levantamento de Requisitos
 ### Requisitos para o Computador Físico
 - **Processador (CPU):** Bom desempenho para multitarefa, 2 núcleos.
-- **Memória RAM:** 8 GB.
+- **Memória RAM:** 16 GB.
 - **Armazenamento:** SSD 50 GB.
-- **Placa-mãe:** 16 GB de RAM.
+- **Placa-mãe:** 32 GB de RAM.
 - **Fonte de alimentação:** 
 - **Orçamento Máximo:** R$ 5.000,00
 ### Requisitos para a Máquina Virtual
