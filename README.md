@@ -29,7 +29,7 @@ Foram esses componentes escolhidos, pois possuem um ótimo custo-benefício e at
 - **Gabinete:** [Link do Gabinete](https://www.pichau.com.br/gabinete-tgt-b110-preto-tgt-b110-pr01?utm_source=meupcnet&utm_medium=afiliados&utm_campaign=meupcnet) 
 
 ## Sistema Operacional Linux
-Após comparar as versões do Linux, a que mais seria compatível com nosso projeto seria a versão Ubuntu 24.10, pois é bem leve, fácil de usar, possui compatibilidade com ferramentas de desenvolvimento, como Docker, Git e IDEs, possui atualizações regulares, garante estabilidade e segurança, é ideal para criar ambientes isolados e testar aplicações e é uma ótima opção para fins educacionais. 
+Após comparar as versões do Linux, a que mais seria compatível com nosso projeto seria a versão Ubuntu 24.04, pois é bem leve, fácil de usar, possui compatibilidade com ferramentas de desenvolvimento, como Docker, Git e IDEs, possui atualizações regulares, garante estabilidade e segurança, é ideal para criar ambientes isolados e testar aplicações e é uma ótima opção para fins educacionais. 
 
 ## Manual de Instalação do Linux no VirtualBox
 ### Pré-requisitos
