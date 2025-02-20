@@ -30,7 +30,7 @@ Foram esses componentes escolhidos, pois possuem um ótimo custo-benefício e s�
 - **Placa de Vídeo:** [Link da Placa de Vídeo](https://produto.mercadolivre.com.br/MLB-3934669741-placa-de-video-afox-amd-radeon-rx-550-4gb-gddr5-128-bits--_JM#polycard_client=mshops-appearance-api&type=item&tracking_id=5bc93f7a-6ef9-41a8-98c2-8f97792c2a1c&source=eshops)
 
 ## Sistema Operacional Linux
-Após comparar as versões do Linux, a que mais seria compatível com nosso projeto seria a versão Ubuntu 24.04, pois é bem leve, fácil de usar, possui compatibilidade com ferramentas de desenvolvimento, como Docker, Git e IDEs, possui atualizações regulares, garante estabilidade e segurança, é ideal para criar ambientes isolados e testar aplicações e é uma ótima opção para fins educacionais. 
+Após comparar as versões do Linux, a que mais seria compatível com nosso projeto seria a versão Ubuntu 24.04, pois é bem leve, fácil de usar, possui compatibilidade com ferramentas de desenvolvimento, como Docker, Git e IDEs, possui atualizações regulares, garante estabilidade e segurança, é ideal para criar ambientes isolados, testar aplicações e é uma ótima opção para fins educacionais. 
 
 ## Manual de Instalação do Linux no VirtualBox
 ### Pré-requisitos
@@ -52,16 +52,26 @@ Após comparar as versões do Linux, a que mais seria compatível com nosso proj
    - 4 GB.
    - 4 núcleos.
 
+![image](https://github.com/user-attachments/assets/adbc3618-7563-40df-86af-97d9f8b25ee1)
+
 3. **Criação do Disco Rígido Virtual:**
-   - 
-   - 
-   - 
+- Configuramos dessa forma:
+
+![image](https://github.com/user-attachments/assets/86abc724-413a-4c8f-81bb-fa5c663059a9)
+
 
 #### 3. Configuração de Rede
 - Selecione a máquina virtual criada e clique em "Configurações".
-- 
+- Configure dessa forma:
+
+![image](https://github.com/user-attachments/assets/ee5e907c-9e26-4b96-9cc2-b6fa01b86c69)
+
+![image](https://github.com/user-attachments/assets/f6ecea41-b67c-4ab5-9d23-f3e0e6025d80)
+
 
 #### 4. Configuração do Disco de Instalação
+
+![image](https://github.com/user-attachments/assets/4bd7137b-f7c7-459e-a056-8f4351dbd66c)
 
 
 #### 5. Iniciando a Instalação do Ubuntu
@@ -78,6 +88,8 @@ Após comparar as versões do Linux, a que mais seria compatível com nosso proj
    - Por fim revisou nossas escolhas e instalamos.
    - Se solicitado, conecte à internet para atualizações.
 
+![image](https://github.com/user-attachments/assets/37f23a69-6c36-4046-a0df-07c84585632f)
+
 #### 6. Pós-Instalação e Testes
 - Após a instalação, a máquina virtual reiniciará.
 - Faça login com as credenciais criadas.
@@ -92,4 +104,4 @@ Após comparar as versões do Linux, a que mais seria compatível com nosso proj
   ![pytohn](https://github.com/user-attachments/assets/75c20758-f61b-4d53-b2e3-cb4bdd3ccb7e)
 
 ## Considerações Finais
-Nossa equipe aprendeu como é o processo de instalação de uma *Máquina Virtual*, como utilizá-la, como instalar softwares como *Phython*; aprendemos a fazer levantamento de preços, com um preço limite; analisar componentes entre qual é melhor. O que poderiamos melhorar seriam as peças da máquina para termos um melhor desempenho da máquina.
+Nossa equipe aprendeu como é o processo de instalação de uma *Máquina Virtual*, como utilizá-la, como instalar softwares como *Phython*; aprendemos a fazer levantamento de preços, com um preço limite; analisamos componentes entre qual é melhor. O que poderiamos melhorar seriam as peças da máquina para termos um melhor desempenho da máquina.
