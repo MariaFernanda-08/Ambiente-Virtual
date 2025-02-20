@@ -44,9 +44,9 @@ Após comparar as versões do Linux, a que mais seria compatível com nosso proj
 
 #### 2. Criação da Máquina Virtual
 1. **Clique em "Novo":**
-   - **Nome:** 
-   - **Tipo:**
-   - **Versão:**
+   - **Nome:** jo-o
+   - **Tipo:** Linux
+   - **Versão:** Ubuntu 24.04
 2. **Configuração de Memória:**
    - ...
 
@@ -77,7 +77,11 @@ Após comparar as versões do Linux, a que mais seria compatível com nosso proj
 - Após a instalação, a máquina virtual reiniciará.
 - Faça login com as credenciais criadas.
 - Abra o terminal e verifique a instalação dos softwares executando os seguintes comandos:
-  ```bash
-  mysql --version
-  node -v
-  python3 --version
+  - mysql 8.0 version
+  ![mysql](https://github.com/user-attachments/assets/0a49a1d0-92e8-4918-b59b-6ea9a3b2c246)
+
+  - node v18.19.1
+  ![node](https://github.com/user-attachments/assets/ae6f344c-98e9-4ce8-ab5c-050de410821b)
+
+  - python3 3.12.3 version
+  ![pytohn](https://github.com/user-attachments/assets/75c20758-f61b-4d53-b2e3-cb4bdd3ccb7e)
