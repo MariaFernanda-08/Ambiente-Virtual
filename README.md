@@ -41,8 +41,43 @@ Após comparar as versões do Linux, a que mais seria compatível com nosso proj
 - Acesse o site do VirtualBox e baixe a versão Ubuntu 24.04.
 - Siga as instruções de instalação fornecidas.
 - Após a instalação, abra o VirtualBox.
+
 #### 2. Criação da Máquina Virtual
 1. **Clique em "Novo":**
    - **Nome:** 
    - **Tipo:**
    - **Versão:**
+2. **Configuração de Memória:**
+   - ...
+
+3. **Criação do Disco Rígido Virtual:**
+   - ......
+   - ......
+   - ......
+
+#### 3. Configuração de Rede
+- Selecione a máquina virtual criada e clique em "Configurações".
+- ......
+- ......
+
+#### 4. Configuração do Disco de Instalação
+- .......
+- .......
+
+#### 5. Iniciando a Instalação do Ubuntu
+1. **Inicie a Máquina Virtual:**
+   - ...........
+
+2. **Instalação Passo a Passo:**
+   - ......
+   - ......
+   - Se solicitado, conecte à internet para atualizações.
+
+#### 6. Pós-Instalação e Testes
+- Após a instalação, a máquina virtual reiniciará.
+- Faça login com as credenciais criadas.
+- Abra o terminal e verifique a instalação dos softwares executando os seguintes comandos:
+  ```bash
+  mysql --version
+  node -v
+  python3 --version
