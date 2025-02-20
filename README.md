@@ -60,19 +60,22 @@ Após comparar as versões do Linux, a que mais seria compatível com nosso proj
 #### 3. Configuração de Rede
 - Selecione a máquina virtual criada e clique em "Configurações".
 - 
-- 
 
 #### 4. Configuração do Disco de Instalação
-- .......
-- .......
+
 
 #### 5. Iniciando a Instalação do Ubuntu
 1. **Inicie a Máquina Virtual:**
-   - ...........
+   - Configuramos idioma, personalização da acessibilidade e clicamos para realizar atualização.
 
 2. **Instalação Passo a Passo:**
-   - ......
-   - ......
+   - Instalamos na forma interativa.
+   - E deixamos os apps na configuração padrão.
+   - Instalamos o drivers de terceiros e baixamos suporte para formatos de mídia.
+   - Apagamos o disco e instalamos o Ubuntu.
+   - Realizamos configuração da conta (nome, senha e nome do computador..)
+   - Colocamos localização e fuso horário.
+   - Por fim revisou nossas escolhas e instalamos.
    - Se solicitado, conecte à internet para atualizações.
 
 #### 6. Pós-Instalação e Testes
@@ -89,4 +92,4 @@ Após comparar as versões do Linux, a que mais seria compatível com nosso proj
   ![pytohn](https://github.com/user-attachments/assets/75c20758-f61b-4d53-b2e3-cb4bdd3ccb7e)
 
 ## Considerações Finais
-Nossa equipe aprendeu como é o processo de instalação de uma *Máquina Virtual*, como utilizá-la, como instalar softwares como *Phython*, aprendemos a fazer levantamento de preços, com um preço limite, analisar componentes entre qual é melhor, o que podemos melhorar, são as peças da máquina para, ainda, um melhor desempenho da máquina.
+Nossa equipe aprendeu como é o processo de instalação de uma *Máquina Virtual*, como utilizá-la, como instalar softwares como *Phython*; aprendemos a fazer levantamento de preços, com um preço limite; analisar componentes entre qual é melhor. O que poderiamos melhorar seriam as peças da máquina para termos um melhor desempenho da máquina.
