@@ -53,14 +53,14 @@ Após comparar as versões do Linux, a que mais seria compatível com nosso proj
    - 4 núcleos.
 
 3. **Criação do Disco Rígido Virtual:**
-   - ......
-   - ......
-   - ......
+   - 
+   - 
+   - 
 
 #### 3. Configuração de Rede
 - Selecione a máquina virtual criada e clique em "Configurações".
-- ......
-- ......
+- 
+- 
 
 #### 4. Configuração do Disco de Instalação
 - .......
