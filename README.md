@@ -11,9 +11,9 @@ Este projeto tem como objetivo criar um ambiente virtual para fins educacionais,
 - **Fonte de alimentação:** 500W.
 - **Orçamento Máximo:** R$ 5.000,00
 ### Requisitos para a Máquina Virtual
-- **Memória:** 
-- **CPU:** 
-- **Armazenamento:** 
+- **Memória:** 4 GB.
+- **CPU:** Processador com 2 núcleos.
+- **Armazenamento:** 25 GB livre. 
 - **Rede:** Configuração via NAT para acesso à internet.
 
 ## Pesquisa e Orçamento de Componentes
