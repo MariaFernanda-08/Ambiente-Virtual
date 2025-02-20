@@ -45,4 +45,4 @@ Após comparar as versões do Linux, a que mais seria compatível com nosso proj
 1. **Clique em "Novo":**
    - **Nome:** 
    - **Tipo:**
-   - **Versão:** 
+   - **Versão:**
