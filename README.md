@@ -8,7 +8,7 @@ Este projeto tem como objetivo criar um ambiente virtual para fins educacionais,
 - **Memória RAM:** 16 GB.
 - **Armazenamento:** SSD 50 GB.
 - **Placa-mãe:** 32 GB de RAM.
-- **Fonte de alimentação:** 
+- **Fonte de alimentação:** 500W.
 - **Orçamento Máximo:** R$ 5.000,00
 ### Requisitos para a Máquina Virtual
 - **Memória:** 
@@ -35,3 +35,14 @@ Após comparar as versões do Linux, a que mais seria compatível com nosso proj
 ### Pré-requisitos
 - **VirtualBox:** Baixe e instale a versão mais recente do [VirtualBox](https://www.virtualbox.org/).
 - **Imagem ISO do Linux:** Faça o download da imagem ISO do Ubuntu em [Ubuntu Download](https://ubuntu.com/download).
+
+### Passo a Passo
+#### 1. Instalação do VirtualBox
+- Acesse o site do VirtualBox e baixe a versão Ubuntu 24.04.
+- Siga as instruções de instalação fornecidas.
+- Após a instalação, abra o VirtualBox.
+#### 2. Criação da Máquina Virtual
+1. **Clique em "Novo":**
+   - **Nome:** 
+   - **Tipo:**
+   - **Versão:** 
